@@ -23,9 +23,7 @@ My qmk config is at: https://github.com/d-rens/dactyl-5-7-qmk
 - The cf thumb cluster uses the same keycaps as the manuform, but is more compact. The thumb only has to move one position left or right from its neutral position to reach all the keys. 
 
 ![thumb clusters](https://i.imgur.com/3dvW10o.png)
-- Removable MCU holder. This holder slides into a cutout on the back wall of the case. Designed for RP2040 based MCU shown [here](https://www.reddit.com/r/ErgoMechKeyboards/comments/1304ucc/new_mcu_for_dactyls_using_an_rp2040/).
 
-![MCU holder](https://i.imgur.com/PKbbydM.png) 
 
 
 ## Generate OpenSCAD and STL models
